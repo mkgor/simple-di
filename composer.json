@@ -1,5 +1,5 @@
 {
-    "name": "pixaye/simple-di",
+    "name": "mkgor/simple-di",
     "description": "Simple implementation of dependency injection container on PHP",
     "type": "project",
     "license": "MIT",

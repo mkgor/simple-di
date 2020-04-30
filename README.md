@@ -4,7 +4,7 @@ SimpleDI is a lightweight and easy to use dependency injection container for PHP
 ## Installation
 You can install SimpleDI via composer
 
-``composer require mkgor/simpledi``
+``composer require mkgor/simple-di``
 
 That's it! You already can use it, because it need a little configuration to provide base functionality of DIC
 
