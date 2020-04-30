@@ -1,0 +1,19 @@
+{
+    "name": "pixaye/simple-di",
+    "description": "Simple implementation of dependency injection container on PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gor Mkhitaryan",
+            "email": "gor.mhitaryan@list.ru"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SimpleDI\\": "src/"
+        }
+    }
+}
