@@ -50,7 +50,7 @@ require "vendor/autoload.php";
 $container = new \SimpleDI\Container(__DIR__ . '/config.php');
 
 //Output: Hello from AnotherDependency
-$container->get(SomeDependency::class)->sayHello();
+$container->get(SomeDependency::class)->anotherDependency->sayHello();
 ```
 
 *config.php*
